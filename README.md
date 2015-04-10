@@ -2,7 +2,7 @@
 
 # Mac Launcher for Google App Engine #
 
-The google-appengine-mac-launcher project contains the source code for the GUI launcher included in the Google App Engine SDK for Python on Mac.  The launcher itself is written in Objective-C.  The source code for the launcher distributed with the App Engine Windows SDK installer can be found on the [google-appengine-wx-launcher](http://code.google.com/p/google-appengine-wx-launcher/) project page.
+The google-appengine-mac-launcher project contains the source code for the GUI launcher included in the Google App Engine SDK for Python on Mac.  The launcher itself is written in Objective-C.  The source code for the launcher distributed with the App Engine Windows SDK installer can be found on the [google-appengine-wx-launcher](https://github.com/rabimba/google-appengine-wx-launcher) project page.
 
 ## The Launcher ##
 
